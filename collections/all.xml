@@ -45,6 +45,7 @@
   <item ref="machado" />
   <item ref="masc_tagged" />
   <item ref="maxent_ne_chunker" />
+  <item ref="maxent_ne_chunker_tab" />
   <item ref="maxent_treebank_pos_tagger" />
   <item ref="moses_sample" />
   <item ref="movie_reviews" />
